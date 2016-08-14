@@ -1,0 +1,11 @@
+{
+    "name": "awaresoft/SonataTranslationBundle",
+    "type": "symfony-bundle",
+    "description": "Symfony Awaresoft SonataTranslationBundle",
+    "require": {
+        "php": ">= 7",
+        "symfony/symfony": "2.*"
+    },"autoload": {
+    "psr-4": { "Awaresoft\\SonataTranslationBundle\\": "" }
+}
+}
