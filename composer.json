@@ -1,5 +1,5 @@
 {
-    "name": "awaresoft/SonataTranslationBundle",
+    "name": "awaresoft/sonata-translation-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Awaresoft SonataTranslationBundle",
     "require": {
